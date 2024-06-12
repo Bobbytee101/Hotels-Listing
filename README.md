@@ -17,7 +17,7 @@ SQLite: Lightweight database for development.
 
 
 # INSTALLATION AND SETUP
-Clone the repository: git clone https://github.com/your-username/hotel-listing-api.git
+Clone the repository: git clone https://github.com/Bobbytee101/hotel-listing-api.git
 Navigate to the project directory: cd hotel-listing-api
 Install dependencies: dotnet restore
 Run the API: dotnet run
